@@ -24,9 +24,11 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://onbellek.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: onbellek
 github_username:  onbellek
+safe: true
 
 # Build settings
 theme: minima
+
 # Build settings
 markdown: kramdown
 
